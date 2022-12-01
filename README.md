@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankan-cyber
 - 👀 I’m interested in ... Web development, Security Research
-- 🌱 I’m currently learning ... C, C++, JS
-- 💞️ I’m looking to collaborate on ... Opencv
+- 🌱 I’m currently learning ... C, C++, JS, React
+- 💞️ I’m looking to collaborate on ... React
 - 📫 How to reach me ... ankan@ankanroy.in
 
 <!---
