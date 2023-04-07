@@ -10,8 +10,8 @@ Feel free to contact me for any web development related inquiries.
 
 
 - 👀 I’m interested in ... Web development, Security Research
-- 🌱 I’m currently learning ... C, C++, JS, React
-- 💞️ I’m looking to collaborate on ... React
+- 🌱 I’m currently learning ... JS, React, Next.js
+- 💞️ I’m looking to collaborate on ... React, Next.js
 - 📫 How to reach me ... ankan@ankanroy.in
 <!---
 Ankan-cyber/Ankan-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
